@@ -1,0 +1,6 @@
+@onetomany_HostAddress = http://localhost:5045
+
+GET {{onetomany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
